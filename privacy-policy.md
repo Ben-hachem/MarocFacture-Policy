@@ -17,7 +17,10 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 ### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+To help our application work correctly, we collect two types of information from our users: Contact List and Image information.
+We only collect the Contact List information that you choose to share with our application. We understand the importance of your privacy and will only access your Contact List with your explicit permission. We collect Image information to help you personalize your account with your Business logo. We do not share this information with any third-party advertisers or marketers.
+
+We do not sell or rent your personal information to any third parties. We may share your personal information with trusted service providers who help us operate our application, but only for the purpose of providing the service to you.
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
