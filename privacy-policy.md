@@ -10,15 +10,16 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
+We also collect other information from your device, which will be described in the next section.
+
+### Device Information  
+To help our application work correctly, we collect two types of information from your device: Contact List and Image information.
+We only collect the Contact List information that you choose to share with our application. We understand the importance of your privacy and will only access your Contact List with your explicit permission. We collect Image information that you choose to share with our application to help you personalize your account with your Business logo. We do not share this information with any third-party advertisers or marketers.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
-
-### Device Information  
-To help our application work correctly, we collect two types of information from your device: Contact List and Image information.
-We only collect the Contact List information that you choose to share with our application. We understand the importance of your privacy and will only access your Contact List with your explicit permission. We collect Image information that you choose to share with our application to help you personalize your account with your Business logo. We do not share this information with any third-party advertisers or marketers.
 
 We do not sell or rent your personal information to any third parties. We may share your personal information with trusted service providers who help us operate our application, but only for the purpose of providing the service to you.
 
