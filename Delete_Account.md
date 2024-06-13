@@ -14,7 +14,7 @@ Contact List Information: Any contact list information that you had chosen to sh
 Image Information: Images provided for personalizing your account, such as your business logo, will also be deleted.
 
 ### Retention Period
-Upon successful deletion of your account, the aforementioned data will be removed immediately from our active servers and databases. However, please note that in some cases, certain residual data might remain in our system backups for a limited period due to technical necessities. Such residual data will be automatically removed as per our routine backup procedures, which typically occur within [specify time frame, e.g., 90 days] from the date of account deletion.
+Upon successful deletion of your account, the aforementioned data will be removed immediately from our active servers and databases. However, please note that in some cases, certain residual data might remain in our system backups for a limited period due to technical necessities. Such residual data will be automatically removed as per our routine backup procedures, which typically occur within 90 days from the date of account deletion.
  
 
 For any further assistance or inquiries regarding account deletion or data retention, please feel free to contact us at:
